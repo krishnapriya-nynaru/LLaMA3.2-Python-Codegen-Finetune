@@ -1,0 +1,7 @@
+datasets
+peft
+tensorboard
+trl
+bitsandbytes
+transformers
+huggingface_hub
