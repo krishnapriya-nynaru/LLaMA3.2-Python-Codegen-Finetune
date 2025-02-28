@@ -1,0 +1,702 @@
+[
+    {
+        "instruction": "Generate a python program that multiplies two matrices.",
+        "bleu_fine_tuned": 21.213607132850942,
+        "bleu_original": 1.7276731376264283,
+        "rouge_fine_tuned": 36.26943005181347,
+        "rouge_original": 10.38961038961039
+    },
+    {
+        "instruction": "Create a python function that takes in two strings and output their combined length.",
+        "bleu_fine_tuned": 7.264588056008306,
+        "bleu_original": 4.108436434418386,
+        "rouge_fine_tuned": 26.08695652173913,
+        "rouge_original": 18.309859154929576
+    },
+    {
+        "instruction": "Compose an algorithm in Python that accepts a phone number and formats it in the (xxx) xxx-xxxx format.",
+        "bleu_fine_tuned": 7.934277730837594,
+        "bleu_original": 12.247503035346027,
+        "rouge_fine_tuned": 31.40495867768595,
+        "rouge_original": 23.404255319148938
+    },
+    {
+        "instruction": "Generate a python program to find the longest common subsequence.",
+        "bleu_fine_tuned": 21.624718304591823,
+        "bleu_original": 34.544714973586,
+        "rouge_fine_tuned": 36.2962962962963,
+        "rouge_original": 35.15625000000001
+    },
+    {
+        "instruction": "Create a Python program that takes in a sentence as an input and prints out the same sentence in Pig Latin.",
+        "bleu_fine_tuned": 17.109805477228964,
+        "bleu_original": 15.562995270453875,
+        "rouge_fine_tuned": 28.24858757062147,
+        "rouge_original": 31.016042780748666
+    },
+    {
+        "instruction": "Create a python function that takes in a list of strings and returns a list with all the strings stripped of unwanted whitespace.",
+        "bleu_fine_tuned": 17.20641247318638,
+        "bleu_original": 2.625057129005771,
+        "rouge_fine_tuned": 52.94117647058824,
+        "rouge_original": 15.384615384615385
+    },
+    {
+        "instruction": "Write a Python code to create a bar chart of the number of cars in each city.",
+        "bleu_fine_tuned": 5.635748144303076,
+        "bleu_original": 36.846917213243906,
+        "rouge_fine_tuned": 22.22222222222222,
+        "rouge_original": 52.4390243902439
+    },
+    {
+        "instruction": "Create a Python program which takes a list of words as input, and prints out the frequent words.",
+        "bleu_fine_tuned": 20.152913222220462,
+        "bleu_original": 13.149628137387701,
+        "rouge_fine_tuned": 35.58282208588957,
+        "rouge_original": 20.853080568720376
+    },
+    {
+        "instruction": "Generate a Python program which can produce the sum of all even numbers between 0 and n, including zero.",
+        "bleu_fine_tuned": 13.940705968945336,
+        "bleu_original": 6.91303163635399,
+        "rouge_fine_tuned": 33.89830508474576,
+        "rouge_original": 21.276595744680847
+    },
+    {
+        "instruction": "Write a Python program for predicting which students will take a certain course in the upcoming semester.",
+        "bleu_fine_tuned": 11.55547007527215,
+        "bleu_original": 31.64206987839165,
+        "rouge_fine_tuned": 23.648648648648653,
+        "rouge_original": 37.17948717948718
+    },
+    {
+        "instruction": "Generate a Python program to fetch and analyze the performance of a list of URLs.",
+        "bleu_fine_tuned": 9.344440965770165,
+        "bleu_original": 10.951934289186456,
+        "rouge_fine_tuned": 22.857142857142854,
+        "rouge_original": 19.178082191780824
+    },
+    {
+        "instruction": "Generate a Python program that takes in two dates and prints the gap between them in number of days.",
+        "bleu_fine_tuned": 7.207392999777966,
+        "bleu_original": 3.849344723659947,
+        "rouge_fine_tuned": 26.751592356687897,
+        "rouge_original": 20.100502512562816
+    },
+    {
+        "instruction": "Generate a for loop in Python to iterate over a range of numbers from 0 to 10.",
+        "bleu_fine_tuned": 4.635939096304079,
+        "bleu_original": 9.203763819571977,
+        "rouge_fine_tuned": 20.253164556962027,
+        "rouge_original": 26.415094339622648
+    },
+    {
+        "instruction": "Write a function in Python that will take in a string and return the most commonly occurring character.",
+        "bleu_fine_tuned": 5.341123802135379,
+        "bleu_original": 5.600727099252163,
+        "rouge_fine_tuned": 29.83425414364641,
+        "rouge_original": 19.138755980861244
+    },
+    {
+        "instruction": "Write a Python program to measure the similarity between two strings using Jaccard index.",
+        "bleu_fine_tuned": 8.388136387948023,
+        "bleu_original": 7.169743231666939,
+        "rouge_fine_tuned": 16.9811320754717,
+        "rouge_original": 21.55688622754491
+    },
+    {
+        "instruction": "Create a program in Python which will print the names of the top 3 numbers in a given list.",
+        "bleu_fine_tuned": 7.777454499920861,
+        "bleu_original": 19.177927704970983,
+        "rouge_fine_tuned": 19.40298507462687,
+        "rouge_original": 32.04419889502763
+    },
+    {
+        "instruction": "Suggest a way to get a substring of a given string in Python.",
+        "bleu_fine_tuned": 5.090079514807579,
+        "bleu_original": 1.4685287019264468,
+        "rouge_fine_tuned": 12.32876712328767,
+        "rouge_original": 19.607843137254903
+    },
+    {
+        "instruction": "Create a class to create a linked list in python nodes.",
+        "bleu_fine_tuned": 9.009109583452235,
+        "bleu_original": 5.500854269368449,
+        "rouge_fine_tuned": 13.750000000000002,
+        "rouge_original": 13.414634146341465
+    },
+    {
+        "instruction": "Create an algorithm in Python to detect duplicate numbers in a given array.",
+        "bleu_fine_tuned": 13.326171731075926,
+        "bleu_original": 6.765960247047234,
+        "rouge_fine_tuned": 58.06451612903226,
+        "rouge_original": 20.454545454545457
+    },
+    {
+        "instruction": "Create a Python program for sorting a list of words into alphabetical order.",
+        "bleu_fine_tuned": 10.380228370058,
+        "bleu_original": 9.78360334008339,
+        "rouge_fine_tuned": 28.57142857142857,
+        "rouge_original": 20.833333333333336
+    },
+    {
+        "instruction": "Enhance the performance of this Python script to evaluate the fibonacci numbers.",
+        "bleu_fine_tuned": 11.973419679227888,
+        "bleu_original": 8.48249201366881,
+        "rouge_fine_tuned": 21.176470588235297,
+        "rouge_original": 24.267782426778243
+    },
+    {
+        "instruction": "Create a function in Python to print Pascal's Triangle of a given number of rows.",
+        "bleu_fine_tuned": 25.757469731115883,
+        "bleu_original": 21.370486560998458,
+        "rouge_fine_tuned": 43.333333333333336,
+        "rouge_original": 32.57918552036199
+    },
+    {
+        "instruction": "Implement a Python function to search for an item in an array.",
+        "bleu_fine_tuned": 21.64429287670593,
+        "bleu_original": 15.939701924748642,
+        "rouge_fine_tuned": 59.45945945945945,
+        "rouge_original": 30.622009569377994
+    },
+    {
+        "instruction": "Generate a machine learning model in Python for predicting the rating for a provided list of attractions.",
+        "bleu_fine_tuned": 16.859624849138694,
+        "bleu_original": 5.144670269445465,
+        "rouge_fine_tuned": 37.391304347826086,
+        "rouge_original": 28.09917355371901
+    },
+    {
+        "instruction": "Write an optimal code to calculate the sum over a range of numbers",
+        "bleu_fine_tuned": 6.923817303649159,
+        "bleu_original": 1.2225185838644022,
+        "rouge_fine_tuned": 23.68421052631579,
+        "rouge_original": 22.01834862385321
+    },
+    {
+        "instruction": "Create a program in Python that takes user input and prints out its type.",
+        "bleu_fine_tuned": 0.6204449247741073,
+        "bleu_original": 3.070813190808504,
+        "rouge_fine_tuned": 10.0,
+        "rouge_original": 14.018691588785048
+    },
+    {
+        "instruction": "Design a Python class that models a simple arithmetic calculator.",
+        "bleu_fine_tuned": 19.947290281381,
+        "bleu_original": 5.779365859073781,
+        "rouge_fine_tuned": 30.573248407643312,
+        "rouge_original": 14.973262032085563
+    },
+    {
+        "instruction": "Create a web crawler with Python 3 that retrieves the title, description, and HTML of each page it visits.",
+        "bleu_fine_tuned": 14.091341312716594,
+        "bleu_original": 15.471408687240423,
+        "rouge_fine_tuned": 44.919786096256686,
+        "rouge_original": 25.196850393700785
+    },
+    {
+        "instruction": "Write a Python program to read a list of numbers and return the sum of elements in the list.",
+        "bleu_fine_tuned": 5.244577826955679,
+        "bleu_original": 0.36400925247411736,
+        "rouge_fine_tuned": 63.41463414634146,
+        "rouge_original": 17.48633879781421
+    },
+    {
+        "instruction": "Create a data analysis model using an artificial neural network and Python.",
+        "bleu_fine_tuned": 14.947572160300124,
+        "bleu_original": 4.7995461541730755,
+        "rouge_fine_tuned": 26.87747035573122,
+        "rouge_original": 14.516129032258066
+    },
+    {
+        "instruction": "Write code to generate a random 3x3 tic-tac-toe board in Python.",
+        "bleu_fine_tuned": 12.946280714040537,
+        "bleu_original": 25.892302459598266,
+        "rouge_fine_tuned": 28.750000000000004,
+        "rouge_original": 47.887323943661976
+    },
+    {
+        "instruction": "Write a Python function to calculate the Hamming distance between two strings of same length.",
+        "bleu_fine_tuned": 11.73962889369687,
+        "bleu_original": 10.560318118878696,
+        "rouge_fine_tuned": 20.105820105820108,
+        "rouge_original": 28.205128205128204
+    },
+    {
+        "instruction": "Create a Python function that takes a string and rotates the characters in the string by a specified integer.",
+        "bleu_fine_tuned": 5.034982329593536,
+        "bleu_original": 5.361908304523179,
+        "rouge_fine_tuned": 20.51282051282051,
+        "rouge_original": 10.344827586206897
+    },
+    {
+        "instruction": "Create a Python program which takes a dictionary as input and prints out a formatted string.",
+        "bleu_fine_tuned": 4.216146614014033,
+        "bleu_original": 4.444205119214005,
+        "rouge_fine_tuned": 24.516129032258068,
+        "rouge_original": 24.705882352941178
+    },
+    {
+        "instruction": "Write a Python function to add 5 to each of the numbers in a list.",
+        "bleu_fine_tuned": 12.537186511069958,
+        "bleu_original": 14.183824476971754,
+        "rouge_fine_tuned": 60.86956521739131,
+        "rouge_original": 25.196850393700785
+    },
+    {
+        "instruction": "Create an web application using Python Flask to calculate the temperature and humidity of a given location.",
+        "bleu_fine_tuned": 19.183588550059323,
+        "bleu_original": 23.98665694205517,
+        "rouge_fine_tuned": 27.888446215139446,
+        "rouge_original": 48.43049327354261
+    },
+    {
+        "instruction": "Develop a python program to classify articles related to sports into two categories: basketball and football.",
+        "bleu_fine_tuned": 0.6779636797601681,
+        "bleu_original": 1.553134660703384,
+        "rouge_fine_tuned": 8.450704225352112,
+        "rouge_original": 8.91089108910891
+    },
+    {
+        "instruction": "Create a program in Python that adds two numbers together.",
+        "bleu_fine_tuned": 3.066409201227227,
+        "bleu_original": 0.35955421052860975,
+        "rouge_fine_tuned": 15.151515151515149,
+        "rouge_original": 7.10059171597633
+    },
+    {
+        "instruction": "Create a Python class to represent a student's grade information.",
+        "bleu_fine_tuned": 11.470606348008836,
+        "bleu_original": 6.645233655119151,
+        "rouge_fine_tuned": 28.10810810810811,
+        "rouge_original": 26.900584795321635
+    },
+    {
+        "instruction": "Write a Python program to print out all even numbers in a given range.",
+        "bleu_fine_tuned": 13.266434933390906,
+        "bleu_original": 14.383419826561894,
+        "rouge_fine_tuned": 33.00970873786408,
+        "rouge_original": 26.666666666666668
+    },
+    {
+        "instruction": "Write a Python program which will sort a given list of numbers in descending order without changing their relative positions.",
+        "bleu_fine_tuned": 14.370469799832463,
+        "bleu_original": 12.153082397183647,
+        "rouge_fine_tuned": 31.818181818181817,
+        "rouge_original": 30.973451327433626
+    },
+    {
+        "instruction": "Write a function in Python to validate a given email address given strings of type \"email@example.com\".",
+        "bleu_fine_tuned": 4.7542134101895,
+        "bleu_original": 5.335125428642808,
+        "rouge_fine_tuned": 13.17365269461078,
+        "rouge_original": 14.689265536723164
+    },
+    {
+        "instruction": "Compose a Python Code to swap two numbers without using a temporary variable.",
+        "bleu_fine_tuned": 14.655218756444576,
+        "bleu_original": 1.5765757674019305,
+        "rouge_fine_tuned": 25.0,
+        "rouge_original": 22.702702702702705
+    },
+    {
+        "instruction": "Create a function that takes a list of strings (words or phrases) as an argument and returns the longest string in the list.",
+        "bleu_fine_tuned": 0.5960429867481558,
+        "bleu_original": 0.32847767260588107,
+        "rouge_fine_tuned": 21.875000000000004,
+        "rouge_original": 9.580838323353296
+    },
+    {
+        "instruction": "List three popular web frameworks used in Python.",
+        "bleu_fine_tuned": 0.7855206681270887,
+        "bleu_original": 0.5858414130690126,
+        "rouge_fine_tuned": 7.734806629834255,
+        "rouge_original": 17.72151898734177
+    },
+    {
+        "instruction": "Create a Python program to read numbers from stdin and produce a histogram, showing the frequency of the numbers in each 10 buckets.",
+        "bleu_fine_tuned": 3.7519568938168746,
+        "bleu_original": 4.194038950219316,
+        "rouge_fine_tuned": 8.98876404494382,
+        "rouge_original": 17.475728155339805
+    },
+    {
+        "instruction": "Generate a random list of numbers in Python of size n and output their sum.",
+        "bleu_fine_tuned": 9.136332437678275,
+        "bleu_original": 9.78305260034898,
+        "rouge_fine_tuned": 26.08695652173913,
+        "rouge_original": 21.27659574468085
+    },
+    {
+        "instruction": "Implement the Naive Bayes classifier in Python to solve a multi-class classification problem.",
+        "bleu_fine_tuned": 23.58196558343347,
+        "bleu_original": 6.109695391828793,
+        "rouge_fine_tuned": 41.11111111111111,
+        "rouge_original": 26.046511627906977
+    },
+    {
+        "instruction": "Design a Python program to calculate the area of a triangle given three side lengths.",
+        "bleu_fine_tuned": 24.287226027736324,
+        "bleu_original": 29.198563838634016,
+        "rouge_fine_tuned": 39.097744360902254,
+        "rouge_original": 44.55445544554456
+    },
+    {
+        "instruction": "Rewrite the following code in Python to sort a given array of integers in ascending order.\nint arr[] = {2, 3, 4, 1, 5};",
+        "bleu_fine_tuned": 24.144530875939278,
+        "bleu_original": 16.413181801070934,
+        "rouge_fine_tuned": 52.800000000000004,
+        "rouge_original": 26.666666666666668
+    },
+    {
+        "instruction": "Write a Python program to clean up a data set containing temperature readings. Write a function that takes the raw temperature data and returns a list of cleaned up readings as integers.",
+        "bleu_fine_tuned": 13.73073340403876,
+        "bleu_original": 11.273083487536425,
+        "rouge_fine_tuned": 41.02564102564102,
+        "rouge_original": 26.22950819672131
+    },
+    {
+        "instruction": "Rewrite the following Python code to make it run at least 30% faster.",
+        "bleu_fine_tuned": 39.29171835775804,
+        "bleu_original": 25.51759302558858,
+        "rouge_fine_tuned": 98.66666666666666,
+        "rouge_original": 40.43715846994536
+    },
+    {
+        "instruction": "Write a Python script to generate a list of prime numbers between 2 and 30.",
+        "bleu_fine_tuned": 7.471612461313791,
+        "bleu_original": 10.623310819285726,
+        "rouge_fine_tuned": 23.076923076923077,
+        "rouge_original": 32.47863247863248
+    },
+    {
+        "instruction": "Write a Python program to identify the longest common sequence of two given strings.",
+        "bleu_fine_tuned": 32.801466578055695,
+        "bleu_original": 23.26666029250708,
+        "rouge_fine_tuned": 44.01544401544402,
+        "rouge_original": 37.362637362637365
+    },
+    {
+        "instruction": "Write a script in Python to sort the given list of numbers in non-decreasing order",
+        "bleu_fine_tuned": 9.079224491407649,
+        "bleu_original": 7.810484017732025,
+        "rouge_fine_tuned": 12.658227848101266,
+        "rouge_original": 10.152284263959393
+    },
+    {
+        "instruction": "Can you write a Python program to search a list of numbers and return the index positions of matches?",
+        "bleu_fine_tuned": 8.956850326395891,
+        "bleu_original": 1.1396285230609235,
+        "rouge_fine_tuned": 49.12280701754386,
+        "rouge_original": 15.384615384615385
+    },
+    {
+        "instruction": "Create a Python program to print the Fibonacci sequence.",
+        "bleu_fine_tuned": 10.788605551054168,
+        "bleu_original": 2.68154866480556,
+        "rouge_fine_tuned": 25.0,
+        "rouge_original": 13.861386138613863
+    },
+    {
+        "instruction": "Create a full-stack application for a book tracking website. This application should have functionality to allow users to rate and review books, add books to a list of favorites, and view other users' profiles.",
+        "bleu_fine_tuned": 0.5168271279279055,
+        "bleu_original": 3.6057669267883825,
+        "rouge_fine_tuned": 10.658307210031348,
+        "rouge_original": 22.36842105263158
+    },
+    {
+        "instruction": "Create a basic implementation of a linked list using Python.",
+        "bleu_fine_tuned": 34.69793164494863,
+        "bleu_original": 15.041108978996295,
+        "rouge_fine_tuned": 65.03067484662576,
+        "rouge_original": 38.05309734513274
+    },
+    {
+        "instruction": "Build a program in Python that takes in a CSV and a value, and returns only the rows that have that value.",
+        "bleu_fine_tuned": 4.252627023350005,
+        "bleu_original": 7.115750116886745,
+        "rouge_fine_tuned": 23.88059701492537,
+        "rouge_original": 24.07407407407408
+    },
+    {
+        "instruction": "In Python, create a function to find the difference in number of a's and b's in a string.",
+        "bleu_fine_tuned": 4.74285149277122,
+        "bleu_original": 4.238770513923732,
+        "rouge_fine_tuned": 32.394366197183096,
+        "rouge_original": 19.444444444444446
+    },
+    {
+        "instruction": "Given a json-formatted string, create a python program to parse it into a dict.",
+        "bleu_fine_tuned": 17.728524545215734,
+        "bleu_original": 29.346101907601014,
+        "rouge_fine_tuned": 33.02752293577982,
+        "rouge_original": 30.08849557522124
+    },
+    {
+        "instruction": "Create a sentiment analysis system in Python using NLTK to provide a score of how positive or negative a review is.",
+        "bleu_fine_tuned": 5.560096427295831,
+        "bleu_original": 4.829939856008436,
+        "rouge_fine_tuned": 22.08588957055215,
+        "rouge_original": 19.653179190751445
+    },
+    {
+        "instruction": "Compile a Python script that prints out the squares of elements from 1 to a given number.",
+        "bleu_fine_tuned": 5.974682188194255,
+        "bleu_original": 4.752554410297355,
+        "rouge_fine_tuned": 24.719101123595507,
+        "rouge_original": 18.487394957983195
+    },
+    {
+        "instruction": "Given a list of strings, create a Python program to find the longest common substring",
+        "bleu_fine_tuned": 11.330514968324339,
+        "bleu_original": 13.498935588551383,
+        "rouge_fine_tuned": 24.444444444444443,
+        "rouge_original": 34.509803921568626
+    },
+    {
+        "instruction": "Generate a python function that takes a list of strings and returns the string concatenation of them.",
+        "bleu_fine_tuned": 17.940657639175527,
+        "bleu_original": 13.536550496845079,
+        "rouge_fine_tuned": 20.930232558139533,
+        "rouge_original": 14.173228346456693
+    },
+    {
+        "instruction": "Create a Python program to generate all the permutations of a string using backtracking.",
+        "bleu_fine_tuned": 3.763477550922241,
+        "bleu_original": 4.559653994870872,
+        "rouge_fine_tuned": 16.352201257861637,
+        "rouge_original": 19.090909090909093
+    },
+    {
+        "instruction": "Create a Python script to apply a log transformation to every element of a NumPy array.",
+        "bleu_fine_tuned": 15.424882684965112,
+        "bleu_original": 10.748617735205702,
+        "rouge_fine_tuned": 28.83720930232558,
+        "rouge_original": 24.669603524229075
+    },
+    {
+        "instruction": "Create a chatbot in Python that will serve as an assistant to students for university admission process.",
+        "bleu_fine_tuned": 5.115570667924861,
+        "bleu_original": 0.45697451305521675,
+        "rouge_fine_tuned": 11.267605633802818,
+        "rouge_original": 6.79611650485437
+    },
+    {
+        "instruction": "Generate a python program to encode a given string into the Base64 representation.",
+        "bleu_fine_tuned": 9.275965387125328,
+        "bleu_original": 4.84721164639674,
+        "rouge_fine_tuned": 55.55555555555556,
+        "rouge_original": 31.746031746031743
+    },
+    {
+        "instruction": "Create a Google Cloud Function in Python to parse an incoming JSON object and extract its values",
+        "bleu_fine_tuned": 1.0673459740924862,
+        "bleu_original": 3.999457867952305,
+        "rouge_fine_tuned": 19.04761904761905,
+        "rouge_original": 17.0
+    },
+    {
+        "instruction": "Develop a python program to remove special characters from a string.",
+        "bleu_fine_tuned": 8.680071438810524,
+        "bleu_original": 18.023840615710508,
+        "rouge_fine_tuned": 13.934426229508196,
+        "rouge_original": 43.07692307692309
+    },
+    {
+        "instruction": "Write a code block in Python that checks if an input is an integer or not.",
+        "bleu_fine_tuned": 1.4359175076032609,
+        "bleu_original": 4.065244987821435,
+        "rouge_fine_tuned": 7.6923076923076925,
+        "rouge_original": 18.867924528301884
+    },
+    {
+        "instruction": "Generate a class to represent a student in Python.",
+        "bleu_fine_tuned": 19.58065022897832,
+        "bleu_original": 6.798067041748587,
+        "rouge_fine_tuned": 36.89320388349515,
+        "rouge_original": 19.53488372093023
+    },
+    {
+        "instruction": "Generate a Python function for finding the maximum consecutive sum of a list of numbers.",
+        "bleu_fine_tuned": 7.0776881107619465,
+        "bleu_original": 17.225252652542622,
+        "rouge_fine_tuned": 21.73913043478261,
+        "rouge_original": 43.8818565400844
+    },
+    {
+        "instruction": "Create an API for a library application in Python. This API should include endpoints for creating a book (with fields for title, author, and ISBN), listing all books, updating a book, and deleting a book.",
+        "bleu_fine_tuned": 7.563623976541524,
+        "bleu_original": 12.513188667794447,
+        "rouge_fine_tuned": 27.12933753943218,
+        "rouge_original": 27.762039660056658
+    },
+    {
+        "instruction": "Create a function in Python that will return the most frequent value in a dataset.",
+        "bleu_fine_tuned": 8.547151065520733,
+        "bleu_original": 4.449126070236499,
+        "rouge_fine_tuned": 31.818181818181817,
+        "rouge_original": 19.895287958115183
+    },
+    {
+        "instruction": "Create a Python algorithm that returns the length of the longest increasing subsequence in an array.",
+        "bleu_fine_tuned": 27.732745481581183,
+        "bleu_original": 22.13316847016852,
+        "rouge_fine_tuned": 41.584158415841586,
+        "rouge_original": 29.464285714285715
+    },
+    {
+        "instruction": "Explain what is the purpose of the reduce() function in Python.",
+        "bleu_fine_tuned": 7.33066738548646,
+        "bleu_original": 4.075820825435372,
+        "rouge_fine_tuned": 22.689075630252102,
+        "rouge_original": 26.562499999999993
+    },
+    {
+        "instruction": "Create a GUI using Tkinter in Python which allows a user to input some text, and then prints out the text on the screen.",
+        "bleu_fine_tuned": 10.076541909967926,
+        "bleu_original": 8.641582102922316,
+        "rouge_fine_tuned": 20.58823529411765,
+        "rouge_original": 18.18181818181818
+    },
+    {
+        "instruction": "Generate a function in Python to convert a given integer to its binary representation.",
+        "bleu_fine_tuned": 4.628727065438388,
+        "bleu_original": 4.165349048213698,
+        "rouge_fine_tuned": 35.55555555555556,
+        "rouge_original": 17.073170731707318
+    },
+    {
+        "instruction": "Create a web scraping script in Python that collects the top 10 news headlines from BBC.",
+        "bleu_fine_tuned": 9.737628675469313,
+        "bleu_original": 12.803218259628105,
+        "rouge_fine_tuned": 34.8936170212766,
+        "rouge_original": 40.35087719298245
+    },
+    {
+        "instruction": "Create a python function that takes a string as an argument and substitues each letter with its corresponding number in the alphabet.",
+        "bleu_fine_tuned": 11.044357537022819,
+        "bleu_original": 2.773743515161072,
+        "rouge_fine_tuned": 28.571428571428566,
+        "rouge_original": 18.81188118811881
+    },
+    {
+        "instruction": "Generate a Python program to find the mode of the given list.",
+        "bleu_fine_tuned": 12.927776277722444,
+        "bleu_original": 12.381973259097249,
+        "rouge_fine_tuned": 36.734693877551024,
+        "rouge_original": 22.564102564102566
+    },
+    {
+        "instruction": "Write a Python function to check if a given number is an Armstrong number or not. An Armstrong number is a number whose sum of cubes of its digits is equal to the number itself.",
+        "bleu_fine_tuned": 5.241900077401311,
+        "bleu_original": 4.212900890021321,
+        "rouge_fine_tuned": 17.105263157894736,
+        "rouge_original": 14.50777202072539
+    },
+    {
+        "instruction": "Chart the following equation y=3x+2 using Python.",
+        "bleu_fine_tuned": 14.073675174128836,
+        "bleu_original": 3.232754335003612,
+        "rouge_fine_tuned": 32.35294117647059,
+        "rouge_original": 21.374045801526716
+    },
+    {
+        "instruction": "Create a python class to generate a sequence of integers",
+        "bleu_fine_tuned": 7.368684284608529,
+        "bleu_original": 6.743383862456664,
+        "rouge_fine_tuned": 21.53846153846154,
+        "rouge_original": 20.606060606060606
+    },
+    {
+        "instruction": "Given a sentence and a word, extract the POS tag of the word using nltk library in Python.",
+        "bleu_fine_tuned": 4.619185813697175,
+        "bleu_original": 17.09570825021108,
+        "rouge_fine_tuned": 26.356589147286826,
+        "rouge_original": 23.728813559322038
+    },
+    {
+        "instruction": "Write a python script that calculate the sum of an array",
+        "bleu_fine_tuned": 6.321755903581695,
+        "bleu_original": 0.35979591893153706,
+        "rouge_fine_tuned": 58.536585365853654,
+        "rouge_original": 12.5
+    },
+    {
+        "instruction": "Write a Python 3 code snippet to check for the presence of a specific value in a dictionary.",
+        "bleu_fine_tuned": 1.0373190245889083,
+        "bleu_original": 0.3126933453617762,
+        "rouge_fine_tuned": 16.666666666666664,
+        "rouge_original": 7.4074074074074066
+    },
+    {
+        "instruction": "Convert this python code to java code.",
+        "bleu_fine_tuned": 8.772639470467212,
+        "bleu_original": 6.428511806359544,
+        "rouge_fine_tuned": 16.54135338345865,
+        "rouge_original": 14.925373134328357
+    },
+    {
+        "instruction": "Create a program in Python that performs basic functions on a linked list.",
+        "bleu_fine_tuned": 27.479948294705288,
+        "bleu_original": 30.27544520439116,
+        "rouge_fine_tuned": 49.85835694050991,
+        "rouge_original": 42.69662921348314
+    },
+    {
+        "instruction": "Generate Python code to remove all punctuation in a given string.",
+        "bleu_fine_tuned": 0.826446296413468,
+        "bleu_original": 10.077269899943767,
+        "rouge_fine_tuned": 15.819209039548024,
+        "rouge_original": 31.11111111111111
+    },
+    {
+        "instruction": "Develop a Python program to count the frequency of each word in a given string.",
+        "bleu_fine_tuned": 8.131399234195408,
+        "bleu_original": 6.903617663922621,
+        "rouge_fine_tuned": 24.242424242424242,
+        "rouge_original": 21.98952879581152
+    },
+    {
+        "instruction": "In Python, create a function that takes a character as input and returns its ASCII value.",
+        "bleu_fine_tuned": 2.763546601145405,
+        "bleu_original": 6.088590504963923,
+        "rouge_fine_tuned": 7.2992700729927,
+        "rouge_original": 16.666666666666664
+    },
+    {
+        "instruction": "Create a program in Python that takes a sentence and converts it into Pig Latin.",
+        "bleu_fine_tuned": 22.183533529003697,
+        "bleu_original": 17.760009540804315,
+        "rouge_fine_tuned": 27.906976744186046,
+        "rouge_original": 37.22627737226278
+    },
+    {
+        "instruction": "Write a Python program to create a function to sort an array of objects by a specified key. The function should accept the array and sort it based on the key given, and return a new array with the objects sorted in ascending order.",
+        "bleu_fine_tuned": 6.516655958415632,
+        "bleu_original": 4.640770541744168,
+        "rouge_fine_tuned": 22.608695652173914,
+        "rouge_original": 13.664596273291924
+    },
+    {
+        "instruction": "Refactor the following Python code to make use of list comprehensions.",
+        "bleu_fine_tuned": 10.785740679522302,
+        "bleu_original": 32.72491871333609,
+        "rouge_fine_tuned": 24.528301886792452,
+        "rouge_original": 46.42857142857142
+    },
+    {
+        "instruction": "Create a class to represent a bank account in Python.",
+        "bleu_fine_tuned": 19.436838971199837,
+        "bleu_original": 10.28907193579453,
+        "rouge_fine_tuned": 37.15846994535519,
+        "rouge_original": 27.807486631016044
+    },
+    {
+        "instruction": "Implement a Heap Sort algorithm in Python.",
+        "bleu_fine_tuned": 56.22915710646266,
+        "bleu_original": 27.056619955724955,
+        "rouge_fine_tuned": 66.23376623376623,
+        "rouge_original": 38.00623052959502
+    }
+]
