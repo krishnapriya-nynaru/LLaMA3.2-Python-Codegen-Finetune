@@ -5,3 +5,4 @@ trl
 bitsandbytes
 transformers
 huggingface_hub
+streamlit
