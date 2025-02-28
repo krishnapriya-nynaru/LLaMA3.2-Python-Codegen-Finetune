@@ -6,3 +6,5 @@ bitsandbytes
 transformers
 huggingface_hub
 streamlit
+nltk
+rouge-score
