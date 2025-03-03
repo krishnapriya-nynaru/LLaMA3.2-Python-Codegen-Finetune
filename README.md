@@ -110,7 +110,10 @@ LLaMA3.2-Python-Codegen-Finetune/
 ```
 
 ## Results and Model performance
-
+- Run the stremlit app:
+  ```bash
+  streamlit run app.py
+  ```
 ### Input to Finetuned Model
 Given the participants’ score sheet for your University Sports Day, you must find the runner-up score. You are given n scores. Store them in a list and find the score of the runner-up.
 
